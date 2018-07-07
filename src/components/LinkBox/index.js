@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 const Wrapper = styled.div`
   background-color: #2B303B;
-  border: solid 3px #96b5b4;
+  border: solid 3px #658cb2;
   display: flex;
   flex-direction: column;
   margin: 10px 10px;
@@ -37,7 +37,7 @@ const Links = styled.ul`
 
 const Title = styled.h1`
   align-self: flex-start;
-  background-color: #96b5b4;
+  background-color: #658cb2;
   color: #2b303b;
   font-size: 42px;
   padding: 8px 0px;
@@ -53,7 +53,7 @@ class LinkBox extends Component {
                 <Title>{this.props.data.title}</Title>
                 <Links>
                     {this.props.data.links.map((link, i) => {
-                        return( 
+                        return(
                             <li key={i}><a href={link.url}>{link.name}</a></li>
                         )
                     })}

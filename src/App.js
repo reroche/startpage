@@ -47,7 +47,6 @@ class App extends Component {
                 <Clock hour12={false}/>
                 <LinkBoxWrapper>
                     {data.map((box, i) => {
-                        console.log(box)
                         return(<LinkBox data={box} key={i} />)
                     })}
                 </LinkBoxWrapper>

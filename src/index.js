@@ -1,9 +1,17 @@
 import React from "react"
-import ReactDOM from "react-dom"
+import { Helmet } from "react-helmet"
+import { render } from "react-snapshot"
 
 import "./normalize.css"
 import App from "./App"
 import registerServiceWorker from "./registerServiceWorker"
 
-ReactDOM.render(<App />, document.getElementById("root"))
+const Out = () => (
+    <div>
+        <Helmet><title>home</title></Helmet>
+        <App />
+    </div>
+)
+
+render(<Out />, document.getElementById("root"))
 registerServiceWorker()
