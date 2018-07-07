@@ -31,7 +31,7 @@ const User = styled.h1`
 `
 
 const Avatar = styled.img`
-  border: solid 1px #c0e5ce;
+  border: solid 3px #f6f6f6;
   border-radius: 0%;
   margin: 10px;
   padding: 0px;

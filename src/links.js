@@ -24,8 +24,8 @@ const data = [
         title: "tools",
         links: [
             {
-                name: "files",
-                url: "file:///home/rer/"
+                name: "wikipedia",
+                url: "http://wikipedia.org"
             },
             {
                 name: "dropbox",
@@ -69,6 +69,10 @@ const data = [
     {
         title: "other",
         links: [
+            {
+                name: "reroche",
+                url: "http://reroche.github.io"
+            },
             {
                 name: "netflix",
                 url: "http://netflix.com"
