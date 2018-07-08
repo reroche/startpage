@@ -11,8 +11,8 @@ My computer runs on the excellent [ArchLabs Linux](http://archlabslinux.com). Si
 
 ### Screenshots
 
-![](screenshot-with-terminal.png)
+![](img/screenshot-with-terminal.png)
 
-![](screenshot.png)
+![](img/screenshot.png)
 
 The font is _Ubuntu Mono_. The bar on top is [Polybar](https://github.com/jaagr/polybar/). The gif is something I found in [r/glitchart](https://www.reddit.com/r/glitch_art/comments/60u5q0/smoking_girl/) that caught my eye. 

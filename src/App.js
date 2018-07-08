@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 import LinkBox from "./components/LinkBox"
 import Clock from "./components/Clock"
-import face from "./smoking_girl.gif"
+import face from "./img/smoking_girl.gif"
 import data from "./links.js"
 
 const FullWrapper = styled.div`
