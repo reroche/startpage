@@ -1,6 +1,6 @@
 # rer's start page
 
-Check it out [here](http://reroche.github.io/startpage).
+Check it out [here](http://reroche.github.io/projects/startpage).
 And while you're here check out my [personal website](http://reroche.github.io).
 
 ## About
