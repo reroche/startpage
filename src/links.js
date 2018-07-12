@@ -7,6 +7,10 @@ const data = [
                 url: "http://todoist.com"
             },
             {
+                name: "exocortex",
+                url: "https://github.com/reroche/exocortex/blob/master/index.md"
+            },
+            {
                 name: "calendar",
                 url: "http://calendar.google.com"
             },

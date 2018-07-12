@@ -36,7 +36,7 @@ const Avatar = styled.img`
   margin: 10px;
   padding: 0px;
   width: 20%;
-`  
+`
 
 class App extends Component {
     render() {
