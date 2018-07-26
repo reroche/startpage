@@ -28,8 +28,8 @@ const data = [
         title: "tools",
         links: [
             {
-                name: "wikipedia",
-                url: "http://wikipedia.org"
+                name: "figma",
+                url: "http://figma.com"
             },
             {
                 name: "dropbox",
@@ -78,8 +78,8 @@ const data = [
                 url: "http://reroche.github.io"
             },
             {
-                name: "figma",
-                url: "http://figma.com"
+                name: "wikipedia",
+                url: "http://wikipedia.org"
             },
             {
                 name: "netflix",
