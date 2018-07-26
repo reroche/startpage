@@ -78,6 +78,10 @@ const data = [
                 url: "http://reroche.github.io"
             },
             {
+                name: "figma",
+                url: "http://figma.com"
+            },
+            {
                 name: "netflix",
                 url: "http://netflix.com"
             },
