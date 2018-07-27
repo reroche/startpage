@@ -32,16 +32,20 @@ const data = [
                 url: "http://figma.com"
             },
             {
-                name: "dropbox",
-                url: "http://dropbox.com"
-            },
-            {
                 name: "pushbullet",
                 url: "http://pushbullet.com"
             },
             {
-                name: "kindle",
-                url: "http://read.amazon.com"
+                name: "mindmup",
+                url: "http://app.mindmup.com"
+            },
+            {
+                name: "dropbox",
+                url: "http://dropbox.com"
+            },
+            {
+                name: "drive",
+                url: "http://drive.google.com"
             }
         ]
     },
@@ -76,6 +80,10 @@ const data = [
             {
                 name: "reroche",
                 url: "http://reroche.github.io"
+            },
+            {
+                name: "kindle",
+                url: "http://read.amazon.com"
             },
             {
                 name: "wikipedia",
